@@ -1,8 +1,9 @@
-①《Hands-On Large Language Models》
-→ 搞懂 LLM
+# 《Hands-On Large Language Models》
+    搞懂 LLM
+    中文名：图解大模型：生成式AI原理与实战.pdf
 
-②《AI Engineering》
-→ 搞懂 LLM 应用工程
+# 《AI Engineering》
+    搞懂 LLM 应用工程
 
-③《Build an AI Agent (From Scratch)》
-→ 真正搞懂 Agent
+# 《Build an AI Agent (From Scratch)》
+    搞懂 Agent
